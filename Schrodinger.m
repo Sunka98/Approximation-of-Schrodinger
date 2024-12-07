@@ -9,8 +9,8 @@ params.L = 5; % Lattice parameter
 
 % Parameters for the Potentials
 params.V0 = -350.0; params.eta = 2; params.epsilon = 0.02; % Potential 1
-params.V0_prime = -380.0; params.epsilon_prime = 0.03; params.b = 0.33; params.eta_prime = 2; % Potential 2
-params.V0_pri = -400.0; params.c = 0.66; params.epsilon_pri = 0.03; params.eta_pri = 2; % Potential 3
+params.V0_prime = -380.0; params.epsilon_prime = 0.03; params.b = 0.4; params.eta_prime = 2; % Potential 2
+params.V0_pri = -400.0; params.c = 0.6; params.epsilon_pri = 0.03; params.eta_pri = 2; % Potential 3
 
 % Constants for Laplacian and Potentials
 params.c1 = 4 * pi^2 / params.L^2;
