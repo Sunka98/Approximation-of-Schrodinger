@@ -27,7 +27,7 @@ By taking the truncations as:
 
 |m| ≤ Nₓ, |j| ≤ N𝓏, Nₖ, k ∈ [0, 2π]
 
-![Band Structure for 0.4](images/Band_structure2_0.33.png)
+![Band Structure for 0.4](Band_structure_0.4.png)
 ![Band Structure for 0.33](Band_structure2_0.33.png)
 
 
